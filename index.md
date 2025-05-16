@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-This is some text to show on the homepage.
