@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "f5fce9a88cf0602b",
+            "id": "1c6ac0ac3854ac3b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -215,17 +215,16 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "b6968542f93e2c1d",
   "lastOpenFiles": [
+    "_posts/2025-05-16-this-is-a-test-post.md",
+    "_drafts/mouse-problems.md",
     "_site/2025/08/17/mouse-problems.html",
     "_site/2025/08/17",
-    "_drafts/mouse-problems.md",
     "_site/2025/08/16/fries-review-in-n-out-burger.html",
     "_drafts/fries-review-in-n-out-burger.md",
     "index.md",
@@ -258,7 +257,6 @@
     "30 Projects/Living in today’s climate",
     "30 Projects/Thunderbird",
     "30 Projects/Climatology",
-    "40 Areas/Nutrition",
     "20 Meta/What Do I Use.canvas",
     "50 Interests/WebDev/MDN URL Anatomy.png",
     "50 Interests/WebDev/MDN Domain Name Structure.png"

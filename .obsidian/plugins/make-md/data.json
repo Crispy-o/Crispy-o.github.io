@@ -43,7 +43,8 @@
     "//00 Inbox",
     "30 Projects/SIFTcast",
     "/",
-    "_drafts"
+    "_drafts",
+    "_posts"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
