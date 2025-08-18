@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "96f468c568b4d301",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
+          },
+          {
             "id": "f2b5f1614d3bdb7e",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             }
           },
           {
-            "id": "1c6ac0ac3854ac3b",
+            "id": "9d860b820ca964e2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -208,6 +221,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "workspaces:Manage workspace layouts": false,
@@ -219,10 +233,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6968542f93e2c1d",
+  "active": "96f468c568b4d301",
   "lastOpenFiles": [
-    "_posts/2025-05-16-this-is-a-test-post.md",
     "_drafts/mouse-problems.md",
+    "Tags",
+    "_posts/2025-05-16-this-is-a-test-post.md",
     "_site/2025/08/17/mouse-problems.html",
     "_site/2025/08/17",
     "_site/2025/08/16/fries-review-in-n-out-burger.html",
@@ -230,7 +245,6 @@
     "index.md",
     "about.md",
     "404.html",
-    "Tags",
     "20 Meta/Excalidraw/Voicemeeter Diagram.md",
     "30 Projects/SIFTcast/Site Layout.md",
     "40 Areas/The Media List/How the World Ran Out of Everything.md",
@@ -252,7 +266,6 @@
     "10 Archive/2025 Summer Vacation/CAD Quick Capture.md",
     "10 Archive/2025 Summer Vacation/2025 Summer Vacation.md",
     "10 Archive/2025 Summer Vacation",
-    "00 Inbox/2025-08-11.md",
     "40 Areas/Family",
     "30 Projects/Living in today’s climate",
     "30 Projects/Thunderbird",
