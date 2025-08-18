@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "path:\"40 Areas/The Media List\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"networking\":Education",
+      "color": {
+        "a": 1,
+        "rgb": 16671755
+      }
+    },
+    {
+      "query": "[\"networking\":Social Sciences",
+      "color": {
+        "a": 1,
+        "rgb": 304613
+      }
+    },
+    {
+      "query": "[\"networking\":Horror",
+      "color": {
+        "a": 1,
+        "rgb": 13766457
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.9204470967270189,
+  "close": true
+}

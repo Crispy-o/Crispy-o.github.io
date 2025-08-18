@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "7c49b834c679a9fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b4ae89fbe79416f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6968542f93e2c1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/mouse-problems.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "mouse-problems"
+            }
+          },
+          {
+            "id": "f2b5f1614d3bdb7e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a27eacc24bbf638d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbb1baf6dc03df37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd35cce1f64efee9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d5c42d963776f890",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "387c7e37e796c785",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f5fce9a88cf0602b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.51103591918945
+  },
+  "right": {
+    "id": "bf030a84b774741e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f84544053e8ce5b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a8b748a821c2eee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "40 Areas/The Media List/TML - 2025 Summer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TML - 2025 Summer"
+            }
+          },
+          {
+            "id": "c70b7fd256777f41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "30 Projects/SIFTcast/The 1884 Enigma Tornado Outbreak Shows Why We Need NOAA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The 1884 Enigma Tornado Outbreak Shows Why We Need NOAA"
+            }
+          },
+          {
+            "id": "105e2ae2e7350caa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4f111198de6cb843",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Inbox/Learning How to Use Dataview.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Learning How to Use Dataview"
+            }
+          },
+          {
+            "id": "25a0c2ad4ea6282e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "74dd58f1eb8e8119",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "40 Areas/The Media List/TML - 2025 Summer.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for TML - 2025 Summer"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b6968542f93e2c1d",
+  "lastOpenFiles": [
+    "_site/2025/08/17/mouse-problems.html",
+    "_site/2025/08/17",
+    "_drafts/mouse-problems.md",
+    "_site/2025/08/16/fries-review-in-n-out-burger.html",
+    "_drafts/fries-review-in-n-out-burger.md",
+    "index.md",
+    "about.md",
+    "404.html",
+    "Tags",
+    "20 Meta/Excalidraw/Voicemeeter Diagram.md",
+    "30 Projects/SIFTcast/Site Layout.md",
+    "40 Areas/The Media List/How the World Ran Out of Everything.md",
+    "40 Areas/The Media List/12 Angry Men.md",
+    "30 Projects/2025 August Shopping List.md",
+    "00 Inbox/Of age key searches.md",
+    "40 Areas/The Media List/A Short History of Chess.md",
+    "40 Areas/The Media List/The Anthropocene Reviewed.md",
+    "10 Archive/2025 Summer Vacation/Flight Planning.md",
+    "10 Archive/2025 Summer Vacation/Eileen Wedding.md",
+    "10 Archive/2025 Summer Vacation/FT Los Angeles Trip.md",
+    "10 Archive/2025 Summer Vacation/FT Family Trip.md",
+    "10 Archive/2025 Summer Vacation/FT Las Vegas Trip.md",
+    "10 Archive/2025 Summer Vacation/FT Inventory.md",
+    "10 Archive/2025 Summer Vacation/CAD Trip Planning.md",
+    "10 Archive/2025 Summer Vacation/CAD Inventory.md",
+    "10 Archive/2025 Summer Vacation/CAD Itinerary.md",
+    "10 Archive/2025 Summer Vacation/CAD Prep Day.md",
+    "10 Archive/2025 Summer Vacation/CAD Quick Capture.md",
+    "10 Archive/2025 Summer Vacation/2025 Summer Vacation.md",
+    "10 Archive/2025 Summer Vacation",
+    "00 Inbox/2025-08-11.md",
+    "40 Areas/Family",
+    "30 Projects/Living in today’s climate",
+    "30 Projects/Thunderbird",
+    "30 Projects/Climatology",
+    "40 Areas/Nutrition",
+    "20 Meta/What Do I Use.canvas",
+    "50 Interests/WebDev/MDN URL Anatomy.png",
+    "50 Interests/WebDev/MDN Domain Name Structure.png"
+  ]
+}

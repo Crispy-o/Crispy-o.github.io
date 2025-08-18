@@ -1,0 +1,268 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "1f3d327b7a359020",
+        "type": "split",
+        "children": [
+          {
+            "id": "e98442935f3d18bd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f30331b9535051a6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "50 Interests/WebDev/MDN 3. Web standards.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "MDN 3. Web standards"
+                }
+              },
+              {
+                "id": "1c8ea7da8a4efb8e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "30 Projects/2025 Saehan Summer Academy/7th Grade - Holes.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "7th Grade - Holes"
+                }
+              },
+              {
+                "id": "b4116a1d42e3b0a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "30 Projects/2025 Saehan Summer Academy/8th Grade - The Golden Goblet.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "8th Grade - The Golden Goblet"
+                }
+              },
+              {
+                "id": "7029650256f8a49b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 Inbox/2025-05-27.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-05-27"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0fdf904a774591b3",
+        "type": "split",
+        "children": [
+          {
+            "id": "12adb105a141ac00",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5c75a1f9799c593b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "d8252c898524bbd9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "78b367929ada2813",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "9923dfb229885872",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {},
+                  "icon": "layout-grid",
+                  "title": "Navigator"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 278.5041847229004
+      },
+      "right": {
+        "id": "b23c024b73765e9d",
+        "type": "split",
+        "children": [
+          {
+            "id": "c3754c8d1c11f11e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0136d4cd0b552f43",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "30 Projects/2025 Saehan Summer Academy/8th Grade - The Golden Goblet.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 8th Grade - The Golden Goblet"
+                }
+              },
+              {
+                "id": "cf2f7f61575f483c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "30 Projects/2025 Saehan Summer Academy/8th Grade - The Golden Goblet.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 8th Grade - The Golden Goblet"
+                }
+              },
+              {
+                "id": "d298a9af6cf01a47",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "50 Interests/WebDev/MDN Glossary of Terms.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from MDN Glossary of Terms"
+                }
+              },
+              {
+                "id": "ab253e8bf6f82df8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "f95f7c1d31e6c5e0",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ]
+          },
+          {
+            "id": "052178c2ba445c64",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4bd3d0a9f5152cfe",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 320.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Open graph view": false,
+          "switcher:Open quick switcher": false,
+          "daily-notes:Open today's daily note": false,
+          "command-palette:Open command palette": false,
+          "templates:Insert template": false,
+          "obsidian-kanban:Create new board": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "canvas:Create new canvas": false,
+          "omnisearch:Omnisearch": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "b4116a1d42e3b0a1",
+      "mtime": "2025-05-27T17:10:23-04:00"
+    }
+  },
+  "active": "Default"
+}

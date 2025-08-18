@@ -1,0 +1,12 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Open Sans",
+  "textFontFamily": "Atkinson Hyperlegible",
+  "monospaceFontFamily": "DM mono",
+  "theme": "obsidian",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ],
+  "baseFontSize": 16
+}
