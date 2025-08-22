@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "96f468c568b4d301",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
-          },
-          {
             "id": "f2b5f1614d3bdb7e",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             }
           },
           {
-            "id": "9d860b820ca964e2",
+            "id": "81c4954195d8d351",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -233,10 +220,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96f468c568b4d301",
+  "active": "b6968542f93e2c1d",
   "lastOpenFiles": [
-    "_drafts/mouse-problems.md",
     "Tags",
+    "_drafts/mouse-problems.md",
     "_posts/2025-05-16-this-is-a-test-post.md",
     "_site/2025/08/17/mouse-problems.html",
     "_site/2025/08/17",
