@@ -1,8 +1,0 @@
-{
-  "pinned": [
-    "editor:fold-all",
-    "editor:unfold-all",
-    "templater-obsidian:insert-templater",
-    "make-md:mk-collapse-folders"
-  ]
-}
